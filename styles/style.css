@@ -4,11 +4,17 @@
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-
+.title{
+  width: 730px;
+  font-size: 102px;
+  font-style: 600;
+  line-height: 96px;
+}
 .header {
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
+  display: flex;
 }
 .logo {
   padding: 20px;
@@ -33,4 +39,11 @@
 .header__main-illustration{
   height: 608px;
   width: 765px;
+  margin: auto;
+}
+.header__subtitle
+{
+  font-size: 18px;
+  font-style: normal;
+  line-height: 25px;
 }
