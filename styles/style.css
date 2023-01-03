@@ -55,3 +55,33 @@
   bottom: 30px;
   width: 388px;
 }
+.description {
+  display: flex;
+}
+.two-columns {
+  border-style:solid;
+  border-color:#ff0000;
+  border-width: 1px;
+  margin: 100px;
+}
+.two-columns__brief {
+  border-style:solid;
+  border-color:#ff0000;
+  border-width: 1px;
+  width: 175px;
+}
+.two-columns__main-text {
+  border-style:solid;
+  border-color:#ff0000;
+  border-width: 1px;
+}
+.two-columns__paragraph {
+  border-style:solid;
+  border-color:#ff0000;
+  border-width: 1px;
+}
+.two-columns__span-accent {
+  border-style:solid;
+  border-color:#ff0000;
+  border-width: 1px;
+}
