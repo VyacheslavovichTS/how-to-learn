@@ -10,6 +10,8 @@
   max-height: 756px;
   position: relative;
   display: flex;
+  overflow: hidden;
+  margin-bottom: 0;
 }
 .logo {
   position: absolute;
@@ -58,17 +60,15 @@
   display: flex;
   justify-content: center;
   align-items: center;
-}
-.description__two-columns {
-  border-style:solid;
-  border-color:#ff0000;
-  border-width: 1px;
   margin-top: 100px;
-  width: 80%;
 }
 .two-columns {
   display: flex;
   justify-content: space-between;
+  border-style:solid;
+  border-color:#ff0000;
+  border-width: 1px;
+  width: 80%;
 }
 .two-columns__brief {
   border-style:solid;
@@ -78,6 +78,8 @@
   line-height: 1.2;
   font-size: 18px;
   font-style: normal;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 .two-columns__main-text {
   border-style:solid;
@@ -109,4 +111,208 @@
 }
 .two-columns__paragraph:last-child {
   margin-bottom: 0;
+}
+.digits {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.section-title {
+  border: solid;
+  border-color: #ff0000;
+  border-width: 1px;
+  margin: 0 auto 20px;
+  width: 60%;
+  line-height: 1.15;
+  font-size: 60px;
+  font-style: 600;
+}
+.section-subtitle {
+  border: solid;
+  border-color: #ff0000;
+  border-width: 1px;
+  margin: 0 auto;
+  width: 60%;
+  line-height: 34px;
+  font-size: 24px;
+  font-style: normal;
+}
+.table {
+  width: 1100px;
+  border: solid;
+  border-color: #00ff0d;
+  border-width: 1px;
+  margin: 0 auto 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.table__cell {
+  width: 250px;
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 60px 0 0;
+}
+.table__heading1 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-style: 600;
+}
+.table__text1 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 20px 0 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-style: normal;
+}
+.table__heading2 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-style: 600;
+}
+.table__text2 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 20px 0 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-style: normal;
+}
+.table__heading3 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-style: 600;
+}
+.table__text3 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 20px 0 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-style: normal;
+}
+.table__heading4 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-style: 600;
+}
+.table__text4 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 20px 0 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-style: normal;
+}
+.table__heading5 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-style: 600;
+}
+.table__text5 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 20px 0 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-style: normal;
+}
+.table__heading6 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-style: 600;
+}
+.table__text6 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 20px 0 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-style: normal;
+}
+.table__heading7 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-style: 600;
+}
+.table__text7 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 20px 0 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-style: normal;
+}
+.table__heading8 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-style: 600;
+}
+.table__text8 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  margin: 20px 0 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-style: normal;
+}
+.table__text21 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-style: normal;
+  margin: 20 0 0;
+}
+.table__text51 {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-style: normal;
 }
