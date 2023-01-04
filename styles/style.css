@@ -155,166 +155,23 @@
   border: solid;
   border-color: #2600ff;
   border-width: 1px;
+  margin: 0;
+}
+.table__heading {
+  border: solid;
+  border-color: #2600ff;
+  border-width: 1px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-style: 600;
   margin: 60px 0 0;
 }
-.table__heading1 {
+.table__text {
   border: solid;
   border-color: #2600ff;
   border-width: 1px;
-  margin: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-style: 600;
-}
-.table__text1 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-style: normal;
   margin: 20px 0 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-style: normal;
-}
-.table__heading2 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-style: 600;
-}
-.table__text2 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 20px 0 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-style: normal;
-}
-.table__heading3 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-style: 600;
-}
-.table__text3 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 20px 0 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-style: normal;
-}
-.table__heading4 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-style: 600;
-}
-.table__text4 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 20px 0 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-style: normal;
-}
-.table__heading5 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-style: 600;
-}
-.table__text5 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 20px 0 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-style: normal;
-}
-.table__heading6 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-style: 600;
-}
-.table__text6 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 20px 0 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-style: normal;
-}
-.table__heading7 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-style: 600;
-}
-.table__text7 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 20px 0 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-style: normal;
-}
-.table__heading8 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-style: 600;
-}
-.table__text8 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  margin: 20px 0 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-style: normal;
-}
-.table__text21 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  line-height: 1.2;
-  font-size: 18px;
-  font-style: normal;
-  margin: 20 0 0;
-}
-.table__text51 {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
-  line-height: 1.2;
-  font-size: 18px;
-  font-style: normal;
 }
