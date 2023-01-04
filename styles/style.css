@@ -37,7 +37,7 @@
   right: 0;
   top: 64px;
 }
-.header__main-illustration{
+.header__main-illustration {
   height: 608px;
   width: 765px;
   position: absolute;
@@ -45,8 +45,7 @@
   right: 0;
   z-index: 1;
 }
-.header__subtitle
-{
+.header__subtitle {
   font-size: 18px;
   font-style: normal;
   line-height: 25px;
@@ -66,10 +65,10 @@
   border-width: 1px;
   margin-top: 100px;
   width: 80%;
-  min-width: 784px;
 }
 .two-columns {
   display: flex;
+  justify-content: space-between;
 }
 .two-columns__brief {
   border-style:solid;
@@ -84,6 +83,8 @@
   border-style:solid;
   border-color:#ff0000;
   border-width: 1px;
+  width: 80%;
+  min-width: 784px;
 }
 .two-columns__paragraph {
   border-style:solid;
