@@ -78,8 +78,7 @@
   line-height: 1.2;
   font-size: 18px;
   font-style: normal;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0;
 }
 .two-columns__main-text {
   border-style:solid;
@@ -119,9 +118,6 @@
   margin-bottom: 100px;
 }
 .section-title {
-  border: solid;
-  border-color: #ff0000;
-  border-width: 1px;
   margin: 0 auto 20px;
   width: 60%;
   line-height: 1.15;
@@ -130,9 +126,6 @@
   text-align: center;
 }
 .section-subtitle {
-  border: solid;
-  border-color: #ff0000;
-  border-width: 1px;
   margin: 0 auto;
   width: 60%;
   line-height: 34px;
@@ -142,9 +135,6 @@
 }
 .table {
   width: 1100px;
-  border: solid;
-  border-color: #00ff0d;
-  border-width: 1px;
   margin: 0 auto 0;
   display: flex;
   flex-wrap: wrap;
@@ -152,24 +142,15 @@
 }
 .table__cell {
   width: 250px;
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
   margin: 0;
 }
 .table__heading {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
   line-height: 1.15;
   font-size: 24px;
   font-style: 600;
   margin: 60px 0 0;
 }
 .table__text {
-  border: solid;
-  border-color: #2600ff;
-  border-width: 1px;
   line-height: 1.2;
   font-size: 18px;
   font-style: normal;
