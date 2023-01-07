@@ -3,8 +3,6 @@
   max-width: 1600px;
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
-  border: solid;
-  border-color: #7e7777;
 }
 .header {
   height: 100vh;
@@ -68,12 +66,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 100px;
+  margin-top: 0;
 }
 .two-columns {
   display: flex;
   justify-content: space-between;
   width: 80%;
+  margin: 100px auto 0;
 }
 .two-columns__brief {
   width: 175px;
@@ -91,8 +90,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  margin-top: 0;
-  margin-bottom: 30px;
+  margin: 0 0 30px;
 }
 .two-columns__span-accent {
   justify-content: space-between;
