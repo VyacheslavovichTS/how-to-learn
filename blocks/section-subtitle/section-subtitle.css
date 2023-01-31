@@ -1,6 +1,6 @@
 .section-subtitle {
 	margin: 0 auto;
-	width: 60%;
+	min-width: 60%;
 	line-height: 34px;
 	font-size: 24px;
 	font-weight: normal;

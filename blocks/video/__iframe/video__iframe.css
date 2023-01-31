@@ -1,7 +1,10 @@
 .video__iframe {
-	margin-right: 20px;
+	margin: 0;
+	padding: 0;
+	transform: translate(0,60px);
+	border:0;
 }
 
 .video__iframe:last-child {
-	margin: 0;
+	margin-left: 20px;
 }
