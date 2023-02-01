@@ -4,6 +4,6 @@
 	padding: 0;
 }
 
-.cards__item.cards__item:nth-child(3n) {
+.cards__item:nth-child(3n) {
 	margin: 0;
 }
